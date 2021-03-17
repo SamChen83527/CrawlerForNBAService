@@ -1,0 +1,13 @@
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CrawlerForNBAService.exe
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CrawlerForNBAService.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CrawlerForNBAService.deps.json
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CrawlerForNBAService.runtimeconfig.json
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CrawlerForNBAService.pdb
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\AngleSharp.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\CsvHelper.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sam\source\repos\CrawlerForNBAService\CrawlerForNBAService\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerForNBAService", "CrawlerForNBAService\CrawlerForNBAService.csproj", "{0A3C26F9-7086-4ADB-A605-DD8FD3E6EE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3C26F9-7086-4ADB-A605-DD8FD3E6EE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3C26F9-7086-4ADB-A605-DD8FD3E6EE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3C26F9-7086-4ADB-A605-DD8FD3E6EE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3C26F9-7086-4ADB-A605-DD8FD3E6EE06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B92884-8702-4BB6-B3AC-D49CDD41C4F3}
+	EndGlobalSection
+EndGlobal
